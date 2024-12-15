@@ -21,7 +21,7 @@ public class LowerBound {
                 break;
              }
             }
-            System.out.println(high);
+            System.out.println(low);
 
         // while(low<high) {
         //    int  mid = (low + high)/2;
